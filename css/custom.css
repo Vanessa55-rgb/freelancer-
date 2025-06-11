@@ -1,0 +1,105 @@
+:root {
+  --bs-primary: #1abc9c;
+  --bs-secondary: #2c3e50;
+  --bs-font-sans-serif: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: var(--bs-font-sans-serif);
+}
+
+/* Hero */
+.masthead {
+  background-color: var(--bs-primary);
+  padding: 150px 0;
+}
+
+.masthead-heading {
+  font-size: 3rem;
+}
+
+.masthead-subheading {
+  font-size: 1.5rem;
+}
+
+/* Divider */
+.divider-custom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.divider-custom-line {
+  width: 70px;
+  height: 4px;
+  background-color: var(--bs-secondary);
+  margin: 0 10px;
+}
+
+.divider-custom-icon {
+  color: var(--bs-secondary);
+  font-size: 2rem;
+}
+
+/* Avatar */
+.masthead-avatar {
+  width: 200px;
+  border-radius: 50%;
+}
+
+/* Services icons */
+.icon-service {
+  font-size: 3rem;
+}
+
+/* Portfolio cards */
+.portfolio-item {
+  overflow: hidden;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.portfolio-item img {
+  transition: all 0.3s ease;
+}
+
+.portfolio-item:hover img {
+  transform: scale(1.05);
+}
+
+.portfolio-item h3 {
+  font-size: 1.2rem;
+  margin-top: 15px;
+  color: #333;
+}
+
+.portfolio-item a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: var(--bs-primary);
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.portfolio-item a:hover {
+  background-color: var(--bs-secondary);
+}
+
+/* About */
+.bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+
+/* Centrar texto en col */
+.text-center-col {
+  text-align: center;
+}
+
+/* Contact */
+.page-section {
+  padding: 100px 0;
+}
