@@ -80,7 +80,7 @@ Puedes escribirme a: vanessagomezlopez55@gmail.com
 
 ---
 
-## 📧 Maqueta
+## Maqueta
 
 ![maqueta](https://github.com/user-attachments/assets/48e6df83-396a-4a95-91e4-ad46402ab27d)
 
