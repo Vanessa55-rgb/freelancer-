@@ -51,13 +51,15 @@ Se sobrescribieron variables CSS de Bootstrap para ajustar:
 
 Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
 
-👉 [Ver Demo](https://<TU-USUARIO>.github.io/<TU-REPO>/)
+👉 [Ver Demo](https://vanessa55-rgb.github.io/freelancer-/#page-top)
 
 ---
 
 ## 📦 Instalación local
 
 1. Clona este repositorio:
+
+👉 [Clona](https://github.com/Vanessa55-rgb/freelancer-.git)
 
 
 
