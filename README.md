@@ -77,3 +77,10 @@ Clonado y adaptado por: **Vanessa Gomez LOpez** 💻✨
 ## 📧 Contacto
 
 Puedes escribirme a: vanessagomezlopez55@gmail.com
+
+---
+
+## 📧 CMaqueta
+
+![maqueta](https://github.com/user-attachments/assets/48e6df83-396a-4a95-91e4-ad46402ab27d)
+
